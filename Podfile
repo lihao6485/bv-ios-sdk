@@ -1,5 +1,5 @@
 # Minimum support iOS version
-platform :ios, '8.0'
+platform :ios, '13.0'
 
 target 'BVSDKTests' do
   
